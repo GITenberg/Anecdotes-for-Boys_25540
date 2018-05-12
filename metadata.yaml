@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7710
     wikipedia: http://en.wikipedia.org/wiki/Harvey_Newcomb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25540#Anecdotes-for-Boys
 gutenberg_issued: '2008-05-20'
 gutenberg_type: Text
 identifiers:
